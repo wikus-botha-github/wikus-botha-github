@@ -1,6 +1,7 @@
 ## **Hi there. I'm Wikus**👋
 
-🧑🏽‍💻 I'm a Data Engineer with a passion for transforming raw data into meaningful insights. I'm currently diving deep into the world of Machine Learning.
+🧑🏽‍💻 I'm a Data Engineer with a passion for transforming raw data into meaningful insights
+🚀 I'm currently diving deep into the world of Machine Learning
 
 ### Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/wikus-botha/)
