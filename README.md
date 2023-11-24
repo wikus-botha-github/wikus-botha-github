@@ -12,7 +12,4 @@
 <a href="https://x.com/WikusBothaX" target="_blank">
 <img src="https://img.shields.io/badge/X-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/wikus-botha-github" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>  
 </div>  
