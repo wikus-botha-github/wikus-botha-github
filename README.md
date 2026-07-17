@@ -2,7 +2,7 @@
 
 🧑🏽‍💻 I am a Data Enthusiast (Data Strategist, Data Architect, Data Engineer, Database Administrator, DataOps Engineer, Data Governance) with a passion for transforming raw data into meaningful insights
 
-🚀 I'm currently diving deep into the world of Machine Learning and Generative AI
+🚀 I'm currently diving deep into the world of Machine Learning, Generative AI and Agentic AI
 
 ---
 
